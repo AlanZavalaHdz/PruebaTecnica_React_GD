@@ -3,7 +3,7 @@
 ##Gobierno Digital
 <p>Prueba técnica de reclutamiento de desarrolladores front-end para el departamento de tecnologías de la información.</p>
 
-##Alan Felipe Zavala Hernandez
+##Alan Felipe Zavala Hernández
 
 ##Acciones
 - git clone https://github.com/AlanZavalaHdz/Gobierno-Digital

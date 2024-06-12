@@ -10,4 +10,4 @@
 - git checkout Develop
 
 ##Comentarios
-<p>Gran prueba tecnica para demostrar las habiidades del desarrollador, ademas de se una gran practica para mantener frescos los conocimientos adquiridos a lo largo de los años</p>
+<p>Esta prueba tecnica permite demostrar las habiidades del desarrollador, ademas de ser una gran practica para mantener frescos los conocimientos adquiridos a lo largo de los años y continuar practicando y aprendiendo cosas nuevas</p>

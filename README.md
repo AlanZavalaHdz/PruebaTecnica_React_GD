@@ -6,8 +6,8 @@
 ##Alan Felipe Zavala Hernández
 
 ##Acciones
-- git clone https://github.com/AlanZavalaHdz/Gobierno-Digital
-- git checkout Develop
+- git clone https://github.com/AlanZavalaHdz/Gobierno-Digital.git
+- git checkout develop
 
 ##Comentarios
-<p>Esta prueba tecnica permite demostrar las habiidades del desarrollador, ademas de ser una gran practica para mantener frescos los conocimientos adquiridos a lo largo de los años y continuar practicando y aprendiendo cosas nuevas</p>
+<p>Esta prueba tecnica permite demostrar las habildades del desarrollador, ademas de ser una gran practica para mantener frescos los conocimientos adquiridos a lo largo de los años y continuar practicando y aprendiendo cosas nuevas</p>
